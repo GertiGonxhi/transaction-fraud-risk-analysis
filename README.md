@@ -4,7 +4,7 @@
 ---
 
 📊 **Dashboard Preview**  
-![Fraud Dashboard](./tableau/fraud_dashboard_hero.png)
+![Fraud Dashboard](./fraud_dashboard_hero.png)
 
 ---
 
